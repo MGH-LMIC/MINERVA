@@ -1,0 +1,484 @@
+,Disease,Microbe,Position,Evidence,PMID
+0,Colon cancer,Collinsella aerofaciens,Gastrointestinal tract,Increase,7574628
+1,Periodontal,Fusobacterium,Subgingival,Increase,9495612
+2,Periodontal,Porphyromonas gingivalis,Subgingival,Increase,9495612
+3,Periodontal,Prevotella,Subgingival,Increase,9495612
+4,Periodontal,Treponema,Subgingival,Increase,9495612
+5,Gastric and duodenal ulcer,Helicobacter pylori,Gastric,Increase,9863476
+6,Gastro-oesophageal reflux,Helicobacter pylori,Gastric,Decrease,9863476
+7,Guttate psoriasis,Staphylococcus aureus,Skin,Increase,10671976
+8,Atopy,Clostridia,Gastrointestinal tract,Increase,11150002
+9,Diarrhea Irritable bowel syndrome(IBS),Bifidobacterium,Gastrointestinal tract,Decrease,15667495
+10,Irritable bowel syndrome(IBS),Bifidobacterium catenulatum,Gastrointestinal tract,Decrease,15667495
+11,Irritable bowel syndrome(IBS),Clostridium coccoides,Gastrointestinal tract,Decrease,15667495
+12,Diarrhea Irritable bowel syndrome(IBS),Desulfovibrio,Gastrointestinal tract,Decrease,15667495
+13,Irritable bowel syndrome(IBS),Ruminococcus productus,Gastrointestinal tract,Increase,15667495
+14,Constipation Irritable bowel syndrome(IBS),Veillonella,Gastrointestinal tract,Increase,15667495
+15,Obesity,Bacteroidetes,Cecal,Decrease,16033867
+16,Obesity,Firmicutes,Cecal,Increase,16033867
+17,Ileal Crohn's disease(CD),Bacteroides fragilis,Gastrointestinal tract,Decrease,16188921
+18,Ileal Crohn's disease(CD),Clostridium coccoides,Gastrointestinal tract,Decrease,16188921
+19,Ileal Crohn's disease(CD),Clostridium leptum,Gastrointestinal tract,Decrease,16188921
+20,Ileal Crohn's disease(CD),Prevotella,Gastrointestinal tract,Decrease,16188921
+21,Bacterial Vaginosis,Atopobium,Vaginal,Increase,16267321
+22,Bacterial Vaginosis,Atopobium vaginae,Vaginal,Increase,16267321
+23,Bacterial Vaginosis,Clostridiales,Vaginal,Increase,16267321
+24,Bacterial Vaginosis,Eggerthella,Vaginal,Increase,16267321
+25,Bacterial Vaginosis,Gardnerella vaginalis,Vaginal,Increase,16267321
+26,Bacterial Vaginosis,Lactobacillus  crispatus,Vaginal,Decrease,16267321
+27,Bacterial Vaginosis,Leptotrichia,Vaginal,Increase,16267321
+28,Bacterial Vaginosis,Megasphaera,Vaginal,Increase,16267321
+29,Infectious colitis,Bacteroides,Gastrointestinal tract,Increase,16432374
+30,Ulcerative colitis,Clostridium coccoides,Gastrointestinal tract,Decrease,16432374
+31,Crohn's disease(CD),Clostridium leptum,Gastrointestinal tract,Decrease,16432374
+32,Allergic sensitization,Clostridium difficile,Gastrointestinal tract,Increase,17047098
+33,Atopic dermatitis,Clostridium difficile,Gastrointestinal tract,Increase,17047098
+34,Atopic sensitisation,Clostridium difficile,Gastrointestinal tract,Increase,17047098
+35,Eczema,Clostridium difficile,Gastrointestinal tract,Increase,17047098
+36,Recurrent wheeze,Clostridium difficile,Gastrointestinal tract,Increase,17047098
+37,Eczema,Escherichia coli,Gastrointestinal tract,Increase,17047098
+38,Obesity,Bacteroidetes,Gastrointestinal tract,Decrease,17183309
+39,Obesity,Firmicutes,Gastrointestinal tract,Increase,17183309
+40,Allergy,Helicobacter pylori,Gastric,Decrease,17452546
+41,Asthma,Helicobacter pylori,Gastric,Decrease,17452546
+42,Irritable bowel syndrome(IBS),Clostridium cocleatum,Gastrointestinal tract,Decrease,17631127
+43,Irritable bowel syndrome(IBS),Collinsella aerofaciens,Gastrointestinal tract,Decrease,17631127
+44,Irritable bowel syndrome(IBS),Coprococcus,Gastrointestinal tract,Increase,17631127
+45,Inflammatory bowel disease(IBD),Actinobacteria,Gastrointestinal tract,Decrease,17699621
+46,Inflammatory bowel disease(IBD),Lachnospiraceae,Gastrointestinal tract,Increase,17699621
+47,Inflammatory bowel disease(IBD),Proteobacteria,Gastrointestinal tract,Decrease,17699621
+48,Atopic dermatitis,Dietzia maris,Skin,Decrease,18033838
+49,Atopic dermatitis,Stenotrophomonas maltophilia,Skin,Increase,18033838
+50,Cystic fibrosis,Coxiellaceae,Bronchoalveolar,Increase,18077362
+51,Cystic fibrosis,Lysobacter,Bronchoalveolar,Increase,18077362
+52,Cystic fibrosis,Rickettsiales,Bronchoalveolar,Increase,18077362
+53,Cystic fibrosis,Staphylococcus aureus,Bronchoalveolar,Increase,18077362
+54,Cystic fibrosis,Stenotrophomonas maltophilia,Bronchoalveolar,Increase,18077362
+55,Cystic fibrosis,Streptococcus mitis,Bronchoalveolar,Decrease,18077362
+56,Obesity,Staphylococcus aureus,Gastrointestinal tract,Increase,18326589
+57,Crohn's disease(CD),Bacteroides ovatus,Gastrointestinal tract,Increase,18401439
+58,Ileal Crohn's disease(CD),Bacteroides ovatus,Gastrointestinal tract,Increase,18401439
+59,Crohn's disease(CD),Bacteroides uniformis,Gastrointestinal tract,Decrease,18401439
+60,Ileal Crohn's disease(CD),Bacteroides uniformis,Gastrointestinal tract,Decrease,18401439
+61,Crohn's disease(CD),Bacteroides vulgatus,Gastrointestinal tract,Increase,18401439
+62,Ileal Crohn's disease(CD),Bacteroides vulgatus,Gastrointestinal tract,Increase,18401439
+63,Bacterial Vaginosis,Betaproteobacteria,Vaginal,Increase,18487399
+64,Bacterial Vaginosis,Candidate division TM7,Vaginal,Increase,18487399
+65,Bacterial Vaginosis,Clostridium,Vaginal,Increase,18487399
+66,Bacterial Vaginosis,Fusobacteria,Vaginal,Increase,18487399
+67,Bacterial Vaginosis,Lactobacillus,Vaginal,Decrease,18487399
+68,Bacterial Vaginosis,Megasphaera,Vaginal,Increase,18487399
+69,Bacterial Vaginosis,Olsenella,Vaginal,Increase,18487399
+70,Bacterial Vaginosis,Porphyromonas uenonis,Vaginal,Increase,18487399
+71,Bacterial Vaginosis,Shuttleworthia,Vaginal,Increase,18487399
+72,Bacterial Vaginosis,Streptobacillus,Vaginal,Increase,18487399
+73,Rheumatoid arthrits,Bifidobacterium,Gastrointestinal tract,Decrease,18528968
+74,Rheumatoid arthrits,Clostridium coccoides,Gastrointestinal tract,Decrease,18528968
+75,Rheumatoid arthrits,Prevotella,Gastrointestinal tract,Decrease,18528968
+76,Psoriasis,Actinobacteria,Skin,Decrease,18648509
+77,Psoriasis,Firmicutes,Skin,Increase,18648509
+78,Psoriasis,Propionibacterium,Skin,Decrease,18648509
+79,Psoriasis,Propionibacterium acnes,Skin,Decrease,18648509
+80,Psoriasis,Streptococcus,Skin,Increase,18648509
+81,Obesity,Firmicutes,Large intestine,Increase,18779823
+82,Obesity,Alcaligenaceae,Gastrointestinal tract,Increase,19164560
+83,Obesity,Coriobacteriaceae,Gastrointestinal tract,Increase,19164560
+84,Obesity,Erysipelotrichaceae,Gastrointestinal tract,Increase,19164560
+85,Obesity,Methanobrevibacter smithii,Gastrointestinal tract,Increase,19164560
+86,Obesity,Prevotellaceae,Gastrointestinal tract,Increase,19164560
+87,Crohn's disease(CD),Clostridium leptum,Gastrointestinal tract,Decrease,19235886
+88,Crohn's disease(CD),Enterobacteriaceae,Gastrointestinal tract,Increase,19235886
+89,Crohn's disease(CD),Faecalibacterium prausnitzii,Gastrointestinal tract,Decrease,19235886
+90,Crohn's disease(CD),Firmicutes,Gastrointestinal tract,Decrease,19235886
+91,Necrotizing Enterocolitis,Enterobacter aerogenes,Gastrointestinal tract,Increase,19369970
+92,Necrotizing Enterocolitis,Enterobacter hormaechei,Gastrointestinal tract,Decrease,19369970
+93,Necrotizing Enterocolitis,Enterococcus,Gastrointestinal tract,Increase,19369970
+94,Necrotizing Enterocolitis,Firmicutes,Gastrointestinal tract,Decrease,19369970
+95,Necrotizing Enterocolitis,Gammaproteobacteria,Gastrointestinal tract,Increase,19369970
+96,Necrotizing Enterocolitis,Klebsiella pneumoniae,Gastrointestinal tract,Decrease,19369970
+97,Necrotizing Enterocolitis,Proteobacteria,Gastrointestinal tract,Increase,19369970
+98,Necrotizing Enterocolitis,Shigella dysenteriae,Gastrointestinal tract,Decrease,19369970
+99,Necrotizing Enterocolitis,Staphylococcus,Gastrointestinal tract,Increase,19369970
+100,Necrotizing Enterocolitis,Veillonella,Gastrointestinal tract,Increase,19369970
+101,Obesity,Bacteroidetes,Gastrointestinal tract,Decrease,19498350
+102,Obesity,Firmicutes,Gastrointestinal tract,Increase,19498350
+103,Irritable bowel syndrome(IBS),Bifidobacterium catenulatum,Duodenal,Decrease,19533811
+104,Necrotizing Enterocolitis,Citrobacter,Gastrointestinal tract,Increase,19783002
+105,Necrotizing Enterocolitis,Enterobacteriaceae,Gastrointestinal tract,Decrease,19783002
+106,Systemic inflammatory response syndrome,Enterobacteriaceae,Gastrointestinal tract,Decrease,19783002
+107,Necrotizing Enterocolitis,Enterococcus,Gastrointestinal tract,Increase,19783002
+108,Systemic inflammatory response syndrome,Enterococcus,Gastrointestinal tract,Increase,19783002
+109,Necrotizing Enterocolitis,Klebsiella,Gastrointestinal tract,Decrease,19783002
+110,Systemic inflammatory response syndrome,Klebsiella,Gastrointestinal tract,Decrease,19783002
+111,Asthma,Bacteroidetes,Bronchial tree,Decrease,20052417
+112,COPD,Bacteroidetes,Bronchial tree,Decrease,20052417
+113,Asthma,Haemophilus,Bronchial tree,Increase,20052417
+114,COPD,Haemophilus,Bronchial tree,Increase,20052417
+115,Asthma,Prevotella,Bronchial tree,Decrease,20052417
+116,COPD,Prevotella,Bronchial tree,Decrease,20052417
+117,Asthma,Proteobacteria,Bronchial tree,Increase,20052417
+118,COPD,Proteobacteria,Bronchial tree,Increase,20052417
+119,Asthma,Staphylococcus,Bronchial tree,Increase,20052417
+120,Type 2 diabetes,Bacilli,Gastrointestinal tract,Increase,20140211
+121,Type 2 diabetes,Bacteroidetes,Gastrointestinal tract,Increase,20140211
+122,Type 2 diabetes,Betaproteobacteria,Gastrointestinal tract,Increase,20140211
+123,Type 2 diabetes,Clostridia,Gastrointestinal tract,Decrease,20140211
+124,Type 2 diabetes,Clostridium,Gastrointestinal tract,Decrease,20140211
+125,Type 2 diabetes,Clostridium coccoides,Gastrointestinal tract,Decrease,20140211
+126,Type 2 diabetes,Firmicutes,Gastrointestinal tract,Decrease,20140211
+127,Type 2 diabetes,Lactobacillus,Gastrointestinal tract,Increase,20140211
+128,Type 2 diabetes,Proteobacteria,Gastrointestinal tract,Increase,20140211
+129,Type 1 diabetes,Bacteroidaceae,Gastrointestinal tract,Increase,20613793
+130,Type 1 diabetes,Bacteroides,Gastrointestinal tract,Increase,20613793
+131,Type 1 diabetes,Bacteroides fragilis,Gastrointestinal tract,Decrease,20613793
+132,Type 1 diabetes,Bacteroides ovatus,Gastrointestinal tract,Increase,20613793
+133,Type 1 diabetes,Bacteroides sp. CJ78,Gastrointestinal tract,Increase,20613793
+134,Type 1 diabetes,Bacteroides thetaiotaomicron,Gastrointestinal tract,Increase,20613793
+135,Type 1 diabetes,Bacteroides uniformis,Gastrointestinal tract,Increase,20613793
+136,Type 1 diabetes,Bacteroides vulgatus,Gastrointestinal tract,Decrease,20613793
+137,Type 1 diabetes,Bacteroidetes,Gastrointestinal tract,Increase,20613793
+138,Type 1 diabetes,Clostridia,Gastrointestinal tract,Decrease,20613793
+139,Type 1 diabetes,Eubacteriaceae,Gastrointestinal tract,Decrease,20613793
+140,Type 1 diabetes,Eubacterium eligens,Gastrointestinal tract,Decrease,20613793
+141,Type 1 diabetes,Eubacterium rectale,Gastrointestinal tract,Decrease,20613793
+142,Type 1 diabetes,Faecalibacterium,Gastrointestinal tract,Decrease,20613793
+143,Type 1 diabetes,Firmicutes,Gastrointestinal tract,Decrease,20613793
+144,Type 1 diabetes,Human intestinal firmicute CB47,Gastrointestinal tract,Decrease,20613793
+145,Type 1 diabetes,Human intestinal firmicute CO19,Gastrointestinal tract,Decrease,20613793
+146,Type 1 diabetes,Lachnospiraceae,Gastrointestinal tract,Decrease,20613793
+147,Type 1 diabetes,Porphyromonadaceae,Gastrointestinal tract,Decrease,20613793
+148,Type 1 diabetes,Rikenellaceae,Gastrointestinal tract,Increase,20613793
+149,Type 1 diabetes,Ruminococcaceae,Gastrointestinal tract,Decrease,20613793
+150,Crohn's disease(CD),Enterococcus faecium,Gastrointestinal tract,Increase,20722058
+151,Crohn's disease(CD),Escherichia coli,Gastrointestinal tract,Increase,20722058
+152,Bacterial Vaginosis,Actinobacteria,Vaginal,Increase,20819230
+153,Bacterial Vaginosis,Aerococcus,Vaginal,Increase,20819230
+154,Bacterial Vaginosis,Atopobium,Vaginal,Increase,20819230
+155,Bacterial Vaginosis,Atopobium vaginae,Vaginal,Increase,20819230
+156,Bacterial Vaginosis,Eggerthella,Vaginal,Increase,20819230
+157,Bacterial Vaginosis,Firmicutes,Vaginal,Decrease,20819230
+158,Bacterial Vaginosis,Fusobacteria,Vaginal,Increase,20819230
+159,Bacterial Vaginosis,Gardnerella,Vaginal,Increase,20819230
+160,Bacterial Vaginosis,Gardnerella vaginalis,Vaginal,Increase,20819230
+161,Bacterial Vaginosis,Lactobacillus iners,Vaginal,Decrease,20819230
+162,Bacterial Vaginosis,Leptotrichia,Vaginal,Increase,20819230
+163,Bacterial Vaginosis,Megasphaera,Vaginal,Increase,20819230
+164,Bacterial Vaginosis,Mobiluncus,Vaginal,Increase,20819230
+165,Bacterial Vaginosis,Papillibacter,Vaginal,Increase,20819230
+166,Bacterial Vaginosis,Prevotella,Vaginal,Increase,20819230
+167,Type 2 diabetes,Faecalibacterium prausnitzii,Gastrointestinal tract,Decrease,20876719
+168,Type 2 diabetes,Proteobacteria,Gastrointestinal tract,Increase,20876719
+169,Asthma,Comamonadaceae,Bronchial,Increase,21194740
+170,Asthma,Oxalobacteraceae,Bronchial,Increase,21194740
+171,Asthma,Sphingomonadaceae,Bronchial,Increase,21194740
+172,Colorectal carcinoma,Bacteroides,Gastrointestinal tract,Increase,21297998
+173,Colorectal carcinoma,Prevotella,Gastrointestinal tract,Increase,21297998
+174,COPD,Haemophilus,Lung left upper lobe,Increase,21364979
+175,COPD,Pseudomonas,Lung,Increase,21364979
+176,Kidney stones,Oxalobacter formigenes,Gastrointestinal tract,Decrease,21460356
+177,Whipple's disease,Tropheryma whipplei,Gastrointestinal tract,Increase,21461659
+178,Liver cirrhosis,Bacilli,Gastrointestinal tract,Increase,21574172
+179,Liver cirrhosis,Bacteroidaceae,Gastrointestinal tract,Decrease,21574172
+180,Liver cirrhosis,Bacteroidetes,Gastrointestinal tract,Decrease,21574172
+181,Liver cirrhosis,Enterobacteriaceae,Gastrointestinal tract,Increase,21574172
+182,Liver cirrhosis,Enterococcus faecalis,Gastrointestinal tract,Increase,21574172
+183,Liver cirrhosis,Fusobacteria,Gastrointestinal tract,Increase,21574172
+184,Liver cirrhosis,Fusobacteriaceae,Gastrointestinal tract,Increase,21574172
+185,Liver cirrhosis,Lachnospira,Gastrointestinal tract,Decrease,21574172
+186,Liver cirrhosis,Lachnospiraceae,Gastrointestinal tract,Decrease,21574172
+187,Liver cirrhosis,Pasteurellaceae,Gastrointestinal tract,Increase,21574172
+188,Liver cirrhosis,Proteobacteria,Gastrointestinal tract,Increase,21574172
+189,Liver cirrhosis,Streptococcaceae,Gastrointestinal tract,Increase,21574172
+190,Liver cirrhosis,Veillonellaceae,Gastrointestinal tract,Increase,21574172
+191,Ulcerative colitis,Actinobacteria,Gastrointestinal tract,Increase,21621540
+192,Ulcerative colitis,Proteobacteria,Gastrointestinal tract,Increase,21621540
+193,Necrotizing Enterocolitis,Actinobacteria,Gastrointestinal tract,Decrease,21674011
+194,Necrotizing Enterocolitis,Bacteroidetes,Gastrointestinal tract,Decrease,21674011
+195,Necrotizing Enterocolitis,Firmicutes,Gastrointestinal tract,Decrease,21674011
+196,Necrotizing Enterocolitis,Proteobacteria,Gastrointestinal tract,Increase,21674011
+197,Irritable bowel syndrome(IBS),Acidobacteriaceae,Gastrointestinal tract,Increase,21741921
+198,Irritable bowel syndrome(IBS),Aeromonadaceae,Gastrointestinal tract,Increase,21741921
+199,Irritable bowel syndrome(IBS),Alteromonadaceae,Gastrointestinal tract,Increase,21741921
+200,Irritable bowel syndrome(IBS),Anaerovorax,Gastrointestinal tract,Decrease,21741921
+201,Irritable bowel syndrome(IBS),Bacillaceae,Gastrointestinal tract,Increase,21741921
+202,Irritable bowel syndrome(IBS),Bacteroidaceae,Gastrointestinal tract,Decrease,21741921
+203,Irritable bowel syndrome(IBS),Bacteroides,Gastrointestinal tract,Decrease,21741921
+204,Irritable bowel syndrome(IBS),Bacteroides vulgatus,Gastrointestinal tract,Decrease,21741921
+205,Irritable bowel syndrome(IBS),Bacteroidetes,Gastrointestinal tract,Decrease,21741921
+206,Irritable bowel syndrome(IBS),Cellulomonadaceae,Gastrointestinal tract,Increase,21741921
+207,Irritable bowel syndrome(IBS),Clostridiaceae,Gastrointestinal tract,Increase,21741921
+208,Irritable bowel syndrome(IBS),Coxiellaceae,Gastrointestinal tract,Increase,21741921
+209,Irritable bowel syndrome(IBS),Desulfobacteraceae,Gastrointestinal tract,Increase,21741921
+210,Irritable bowel syndrome(IBS),Desulfovibrionaceae,Gastrointestinal tract,Increase,21741921
+211,Irritable bowel syndrome(IBS),Dorea,Gastrointestinal tract,Increase,21741921
+212,Irritable bowel syndrome(IBS),Enterobacteriaceae,Gastrointestinal tract,Increase,21741921
+213,Irritable bowel syndrome(IBS),Eubacteriaceae,Gastrointestinal tract,Increase,21741921
+214,Irritable bowel syndrome(IBS),Eubacterium,Gastrointestinal tract,Decrease,21741921
+215,Irritable bowel syndrome(IBS),Gammaproteobacteria,Gastrointestinal tract,Increase,21741921
+216,Irritable bowel syndrome(IBS),Haemophilus,Gastrointestinal tract,Increase,21741921
+217,Irritable bowel syndrome(IBS),Haemophilus parainfluenzae,Gastrointestinal tract,Increase,21741921
+218,Irritable bowel syndrome(IBS),Lachnospiraceae,Gastrointestinal tract,Increase,21741921
+219,Irritable bowel syndrome(IBS),Nitrospiraceae,Gastrointestinal tract,Increase,21741921
+220,Irritable bowel syndrome(IBS),Paenibacillaceae,Gastrointestinal tract,Decrease,21741921
+221,Irritable bowel syndrome(IBS),Pasteurellaceae,Gastrointestinal tract,Increase,21741921
+222,Irritable bowel syndrome(IBS),Peptostreptococcaceae,Gastrointestinal tract,Increase,21741921
+223,Irritable bowel syndrome(IBS),Polyangiaceae,Gastrointestinal tract,Increase,21741921
+224,Irritable bowel syndrome(IBS),Porphyromonadaceae,Gastrointestinal tract,Decrease,21741921
+225,Irritable bowel syndrome(IBS),Prevotellaceae,Gastrointestinal tract,Increase,21741921
+226,Irritable bowel syndrome(IBS),Promicromonosporaceae,Gastrointestinal tract,Increase,21741921
+227,Irritable bowel syndrome(IBS),Proteobacteria,Gastrointestinal tract,Increase,21741921
+228,Irritable bowel syndrome(IBS),Ruminococcus,Gastrointestinal tract,Increase,21741921
+229,Irritable bowel syndrome(IBS),Streptococcaceae,Gastrointestinal tract,Increase,21741921
+230,Irritable bowel syndrome(IBS),Syntrophobacteraceae,Gastrointestinal tract,Increase,21741921
+231,Irritable bowel syndrome(IBS),Thiotrichaceae,Gastrointestinal tract,Increase,21741921
+232,Irritable bowel syndrome(IBS),Veillonella,Gastrointestinal tract,Increase,21741921
+233,Cystic fibrosis,Xanthomonas,Lung left upper lobe,Increase,21796216
+234,Colorectal carcinoma,Fusobacterium nucleatum,Gastrointestinal tract,Increase,22009989
+235,Colorectal carcinoma,Bacteroidetes,Gastrointestinal tract,Decrease,22009990
+236,Colorectal carcinoma,Clostridia,Gastrointestinal tract,Decrease,22009990
+237,Colorectal carcinoma,Firmicutes,Gastrointestinal tract,Decrease,22009990
+238,Colorectal carcinoma,Fusobacterium,Gastrointestinal tract,Increase,22009990
+239,Type 1 diabetes,Acetonema,Gastrointestinal tract,Decrease,22043294
+240,Type 1 diabetes,Actinobacillus,Gastrointestinal tract,Increase,22043294
+241,Type 1 diabetes,Actinobacteria,Gastrointestinal tract,Increase,22043294
+242,Type 1 diabetes,Aggregatibacter,Gastrointestinal tract,Increase,22043294
+243,Type 1 diabetes,Akkermansia,Gastrointestinal tract,Decrease,22043294
+244,Type 1 diabetes,Alistipes,Gastrointestinal tract,Increase,22043294
+245,Type 1 diabetes,Anaerofilum,Gastrointestinal tract,Decrease,22043294
+246,Type 1 diabetes,Anaerostipes,Gastrointestinal tract,Decrease,22043294
+247,Type 1 diabetes,Anaerotruncus,Gastrointestinal tract,Decrease,22043294
+248,Type 1 diabetes,Bacillus,Gastrointestinal tract,Decrease,22043294
+249,Type 1 diabetes,Bacterium 08.96.4,Gastrointestinal tract,Decrease,22043294
+250,Type 1 diabetes,Bacterium ASF500,Gastrointestinal tract,Decrease,22043294
+251,Type 1 diabetes,Bacterium B4C2-5,Gastrointestinal tract,Decrease,22043294
+252,Type 1 diabetes,Bacterium Ba2,Gastrointestinal tract,Increase,22043294
+253,Type 1 diabetes,Bacterium C15,Gastrointestinal tract,Increase,22043294
+254,Type 1 diabetes,Bacterium G100VIII,Gastrointestinal tract,Increase,22043294
+255,Type 1 diabetes,Bacterium ic1214,Gastrointestinal tract,Increase,22043294
+256,Type 1 diabetes,Bacterium ic1258,Gastrointestinal tract,Increase,22043294
+257,Type 1 diabetes,Bacterium ic1292,Gastrointestinal tract,Increase,22043294
+258,Type 1 diabetes,Bacterium ic1296,Gastrointestinal tract,Decrease,22043294
+259,Type 1 diabetes,Bacterium ic1311,Gastrointestinal tract,Increase,22043294
+260,Type 1 diabetes,Bacterium ic1379,Gastrointestinal tract,Decrease,22043294
+261,Type 1 diabetes,Bacterium ic1391,Gastrointestinal tract,Increase,22043294
+262,Type 1 diabetes,Bacterium MB7-1,Gastrointestinal tract,Increase,22043294
+263,Type 1 diabetes,Bacterium mpn-isolate group 19,Gastrointestinal tract,Increase,22043294
+264,Type 1 diabetes,Bacterium mpn-isolate group 22,Gastrointestinal tract,Decrease,22043294
+265,Type 1 diabetes,Bacterium mpn-isolate group 24,Gastrointestinal tract,Decrease,22043294
+266,Type 1 diabetes,Bacterium mpn-isolate group 27,Gastrointestinal tract,Increase,22043294
+267,Type 1 diabetes,Bacterium mpn-isolate group 5,Gastrointestinal tract,Increase,22043294
+268,Type 1 diabetes,Bacterium 'New Zealand B',Gastrointestinal tract,Increase,22043294
+269,Type 1 diabetes,Bacterium str. 31285,Gastrointestinal tract,Decrease,22043294
+270,Type 1 diabetes,Bacterium YE62,Gastrointestinal tract,Decrease,22043294
+271,Type 1 diabetes,Bacterium YE64,Gastrointestinal tract,Increase,22043294
+272,Type 1 diabetes,Bacteroidaceae bacterium Smarlab 3301643,Gastrointestinal tract,Increase,22043294
+273,Type 1 diabetes,Bacteroides,Gastrointestinal tract,Increase,22043294
+274,Type 1 diabetes,Bacteroidetes,Gastrointestinal tract,Increase,22043294
+275,Type 1 diabetes,Bifidobacterium,Gastrointestinal tract,Increase,22043294
+276,Type 1 diabetes,Bovine rumen bacterium JPR13,Gastrointestinal tract,Increase,22043294
+277,Type 1 diabetes,Brenneria,Gastrointestinal tract,Increase,22043294
+278,Type 1 diabetes,Burkholderiales bacterium Smarlab 3302047,Gastrointestinal tract,Decrease,22043294
+279,Type 1 diabetes,Butyrate-producing bacterium ART55/1,Gastrointestinal tract,Decrease,22043294
+280,Type 1 diabetes,Butyrate-producing bacterium L1-810,Gastrointestinal tract,Decrease,22043294
+281,Type 1 diabetes,Butyrate-producing bacterium L1-952,Gastrointestinal tract,Decrease,22043294
+282,Type 1 diabetes,Butyrate-producing bacterium L2-50,Gastrointestinal tract,Decrease,22043294
+283,Type 1 diabetes,Butyrate-producing bacterium M104/1,Gastrointestinal tract,Decrease,22043294
+284,Type 1 diabetes,Butyrate-producing bacterium M21/2,Gastrointestinal tract,Decrease,22043294
+285,Type 1 diabetes,Butyrate-producing bacterium M50/1,Gastrointestinal tract,Decrease,22043294
+286,Type 1 diabetes,Butyrate-producing bacterium P607,Gastrointestinal tract,Decrease,22043294
+287,Type 1 diabetes,Butyrate-producing bacterium PH05YB02,Gastrointestinal tract,Decrease,22043294
+288,Type 1 diabetes,Butyrate-producing bacterium Ph07AY02,Gastrointestinal tract,Decrease,22043294
+289,Type 1 diabetes,Butyrate-producing bacterium PH07AY3,Gastrointestinal tract,Decrease,22043294
+290,Type 1 diabetes,Butyrate-producing bacterium PH07AY5,Gastrointestinal tract,Decrease,22043294
+291,Type 1 diabetes,Butyrate-producing bacterium PH07BY04,Gastrointestinal tract,Decrease,22043294
+292,Type 1 diabetes,Butyrate-producing bacterium SL6/1/1,Gastrointestinal tract,Increase,22043294
+293,Type 1 diabetes,Butyrate-producing bacterium SM4/1,Gastrointestinal tract,Decrease,22043294
+294,Type 1 diabetes,Butyrate-producing bacterium SR1/1,Gastrointestinal tract,Increase,22043294
+295,Type 1 diabetes,Butyrate-producing bacterium SR1/5,Gastrointestinal tract,Decrease,22043294
+296,Type 1 diabetes,Butyrate-producing bacterium SS2/1,Gastrointestinal tract,Decrease,22043294
+297,Type 1 diabetes,Butyrate-producing bacterium SSC/2,Gastrointestinal tract,Increase,22043294
+298,Type 1 diabetes,Butyrate-producing bacterium T2-132,Gastrointestinal tract,Increase,22043294
+299,Type 1 diabetes,Citrobacter,Gastrointestinal tract,Increase,22043294
+300,Type 1 diabetes,Clostridia bacterium TSW07CA7,Gastrointestinal tract,Decrease,22043294
+301,Type 1 diabetes,Clostridiaceae bacterium bSSV31,Gastrointestinal tract,Increase,22043294
+302,Type 1 diabetes,Clostridiaceae bacterium LEMV63,Gastrointestinal tract,Increase,22043294
+303,Type 1 diabetes,Clostridiaceae bacterium SH032,Gastrointestinal tract,Decrease,22043294
+304,Type 1 diabetes,Clostridiaceae bacterium SK061,Gastrointestinal tract,Decrease,22043294
+305,Type 1 diabetes,Clostridiales bacterium 80/3,Gastrointestinal tract,Decrease,22043294
+306,Type 1 diabetes,Clostridiales bacterium A2-162,Gastrointestinal tract,Decrease,22043294
+307,Type 1 diabetes,Clostridiales bacterium AHT16,Gastrointestinal tract,Increase,22043294
+308,Type 1 diabetes,Clostridiales bacterium L2-14,Gastrointestinal tract,Increase,22043294
+309,Type 1 diabetes,Clostridium innocuum,Gastrointestinal tract,Increase,22043294
+310,Type 1 diabetes,Clostridium ramosum,Gastrointestinal tract,Increase,22043294
+311,Type 1 diabetes,Clostridium spiroforme,Gastrointestinal tract,Increase,22043294
+312,Type 1 diabetes,Collinsella,Gastrointestinal tract,Increase,22043294
+313,Type 1 diabetes,Coprobacillus,Gastrointestinal tract,Increase,22043294
+314,Type 1 diabetes,Cronobacter,Gastrointestinal tract,Increase,22043294
+315,Type 1 diabetes,Dehalobacterium,Gastrointestinal tract,Increase,22043294
+316,Type 1 diabetes,Desulfotomaculum,Gastrointestinal tract,Increase,22043294
+317,Type 1 diabetes,Dialister,Gastrointestinal tract,Decrease,22043294
+318,Type 1 diabetes,Dysgonomonas,Gastrointestinal tract,Decrease,22043294
+319,Type 1 diabetes,Edwardsiella,Gastrointestinal tract,Increase,22043294
+320,Type 1 diabetes,Enterobacter,Gastrointestinal tract,Increase,22043294
+321,Type 1 diabetes,Erwinia,Gastrointestinal tract,Increase,22043294
+322,Type 1 diabetes,Erysipelothrix,Gastrointestinal tract,Decrease,22043294
+323,Type 1 diabetes,Escherichia,Gastrointestinal tract,Increase,22043294
+324,Type 1 diabetes,Eubacterium,Gastrointestinal tract,Increase,22043294
+325,Type 1 diabetes,Eubacterium tortuosum,Gastrointestinal tract,Increase,22043294
+326,Type 1 diabetes,Faecalibacterium,Gastrointestinal tract,Decrease,22043294
+327,Type 1 diabetes,Firmicutes,Gastrointestinal tract,Decrease,22043294
+328,Type 1 diabetes,Firmicutes bacterium EG14,Gastrointestinal tract,Increase,22043294
+329,Type 1 diabetes,Firmicutes str. C29,Gastrointestinal tract,Decrease,22043294
+330,Type 1 diabetes,Fusobacteria,Gastrointestinal tract,Decrease,22043294
+331,Type 1 diabetes,Fusobacterium,Gastrointestinal tract,Decrease,22043294
+332,Type 1 diabetes,Gram-negative bacterium cL10-2b-4,Gastrointestinal tract,Decrease,22043294
+333,Type 1 diabetes,Haemophilus,Gastrointestinal tract,Increase,22043294
+334,Type 1 diabetes,Hafnia,Gastrointestinal tract,Increase,22043294
+335,Type 1 diabetes,Human intestinal firmicute CB47,Gastrointestinal tract,Decrease,22043294
+336,Type 1 diabetes,Human intestinal firmicute CO13,Gastrointestinal tract,Decrease,22043294
+337,Type 1 diabetes,Human intestinal firmicute CO19,Gastrointestinal tract,Decrease,22043294
+338,Type 1 diabetes,Human intestinal firmicute CO2,Gastrointestinal tract,Decrease,22043294
+339,Type 1 diabetes,Human intestinal firmicute CO35,Gastrointestinal tract,Increase,22043294
+340,Type 1 diabetes,Human intestinal firmicute CO4,Gastrointestinal tract,Decrease,22043294
+341,Type 1 diabetes,Human intestinal firmicute CS26,Gastrointestinal tract,Decrease,22043294
+342,Type 1 diabetes,Klebsiella,Gastrointestinal tract,Increase,22043294
+343,Type 1 diabetes,Lachnobacterium,Gastrointestinal tract,Decrease,22043294
+344,Type 1 diabetes,Lachnospiraceae bacterium A2,Gastrointestinal tract,Increase,22043294
+345,Type 1 diabetes,Lactobacillus,Gastrointestinal tract,Decrease,22043294
+346,Type 1 diabetes,Lactococcus,Gastrointestinal tract,Decrease,22043294
+347,Type 1 diabetes,Mannheimia,Gastrointestinal tract,Increase,22043294
+348,Type 1 diabetes,Mastodon intestinal bacterium AN-22-6,Gastrointestinal tract,Increase,22043294
+349,Type 1 diabetes,Mogibacterium,Gastrointestinal tract,Decrease,22043294
+350,Type 1 diabetes,Odoribacter,Gastrointestinal tract,Decrease,22043294
+351,Type 1 diabetes,Oligella,Gastrointestinal tract,Increase,22043294
+352,Type 1 diabetes,Oscillibacter,Gastrointestinal tract,Decrease,22043294
+353,Type 1 diabetes,Oscillospira,Gastrointestinal tract,Decrease,22043294
+354,Type 1 diabetes,Oscillospiraceae bacterium NML 061048,Gastrointestinal tract,Decrease,22043294
+355,Type 1 diabetes,Pantoea,Gastrointestinal tract,Increase,22043294
+356,Type 1 diabetes,Parabacteroides,Gastrointestinal tract,Decrease,22043294
+357,Type 1 diabetes,Pasteurella,Gastrointestinal tract,Increase,22043294
+358,Type 1 diabetes,Pectobacterium,Gastrointestinal tract,Increase,22043294
+359,Type 1 diabetes,Peptostreptococcus,Gastrointestinal tract,Increase,22043294
+360,Type 1 diabetes,Phascolarctobacterium,Gastrointestinal tract,Decrease,22043294
+361,Type 1 diabetes,Porphyromonas,Gastrointestinal tract,Decrease,22043294
+362,Type 1 diabetes,Prevotella,Gastrointestinal tract,Decrease,22043294
+363,Type 1 diabetes,Proteobacteria,Gastrointestinal tract,Increase,22043294
+364,Type 1 diabetes,Pusillimonas,Gastrointestinal tract,Increase,22043294
+365,Type 1 diabetes,Roseburia,Gastrointestinal tract,Decrease,22043294
+366,Type 1 diabetes,Rumen bacterium 8/94-32,Gastrointestinal tract,Decrease,22043294
+367,Type 1 diabetes,Rumen bacterium R-7,Gastrointestinal tract,Increase,22043294
+368,Type 1 diabetes,Rumen bacterium R-9,Gastrointestinal tract,Decrease,22043294
+369,Type 1 diabetes,Salmonella,Gastrointestinal tract,Increase,22043294
+370,Type 1 diabetes,Segmented filamentous bacterium,Gastrointestinal tract,Increase,22043294
+371,Type 1 diabetes,Serratia,Gastrointestinal tract,Increase,22043294
+372,Type 1 diabetes,Shigella,Gastrointestinal tract,Increase,22043294
+373,Type 1 diabetes,Shuttleworthia,Gastrointestinal tract,Decrease,22043294
+374,Type 1 diabetes,Solobacterium,Gastrointestinal tract,Increase,22043294
+375,Type 1 diabetes,Streptococcus,Gastrointestinal tract,Increase,22043294
+376,Type 1 diabetes,Subdoligranulum,Gastrointestinal tract,Decrease,22043294
+377,Type 1 diabetes,Sutterella,Gastrointestinal tract,Decrease,22043294
+378,Type 1 diabetes,Swine fecal bacterium FPC67,Gastrointestinal tract,Decrease,22043294
+379,Type 1 diabetes,Swine fecal bacterium FPC70,Gastrointestinal tract,Increase,22043294
+380,Type 1 diabetes,Swine fecal bacterium RF3E-Xyl1,Gastrointestinal tract,Decrease,22043294
+381,Type 1 diabetes,Swine fecal bacterium SD-Pec1,Gastrointestinal tract,Decrease,22043294
+382,Type 1 diabetes,Swine manure pit bacterium PPC108,Gastrointestinal tract,Increase,22043294
+383,Type 1 diabetes,Tenericutes,Gastrointestinal tract,Decrease,22043294
+384,Type 1 diabetes,Terrahaemophilus,Gastrointestinal tract,Increase,22043294
+385,Type 1 diabetes,Unidentified bacterium ZF3,Gastrointestinal tract,Decrease,22043294
+386,Type 1 diabetes,Veillonella,Gastrointestinal tract,Increase,22043294
+387,Type 1 diabetes,Verrucomicrobia,Gastrointestinal tract,Decrease,22043294
+388,Type 1 diabetes,Verrucomicrobia bacterium MS-F-88,Gastrointestinal tract,Decrease,22043294
+389,Type 1 diabetes,Vibrio,Gastrointestinal tract,Increase,22043294
+390,Type 1 diabetes,Yersinia,Gastrointestinal tract,Increase,22043294
+391,Psoriasis,Propionibacterium,Skin,Decrease,22065152
+392,Psoriasis,Proteobacteria,Skin,Increase,22065152
+393,Psoriasis,Staphylococcus,Skin,Decrease,22065152
+394,Ileal Crohn's disease(CD),Lachnospiraceae,Gastrointestinal tract,Increase,22068912
+395,Atopic dermatitis,Staphylococcus aureus,Skin,Decrease,22310478
+396,Atopic dermatitis,Staphylococcus epidermidis,Skin,Decrease,22310478
+397,COPD,Burkholderia,Lung,Increase,22427533
+398,Cystic fibrosis,Burkholderia,Lung,Increase,22427533
+399,COPD,Lactobacillus,Lung,Increase,22427533
+400,Cystic fibrosis,Lactobacillus,Lung,Increase,22427533
+401,Periodontal,Actinomyces,Subgingival,Decrease,22675498
+402,Periodontal,Haemophilus,Subgingival,Increase,22675498
+403,Periodontal,Selenomonas,Subgingival,Increase,22675498
+404,Periodontal,Streptococcus,Subgingival,Decrease,22675498
+405,Bacterial Vaginosis,Eggerthella,Vaginal,Increase,22719852
+406,Bacterial Vaginosis,Leptotrichia amnionii,Vaginal,Increase,22719852
+407,Allergic asthma,Helicobacter pylori,Gastric,Increase,22971068
+408,Clostridium difficile infection(CDI),Alistipes,Gastrointestinal tract,Decrease,23323867
+409,Clostridium difficile infection(CDI),Bacteroidaceae,Gastrointestinal tract,Decrease,23323867
+410,Clostridium difficile infection(CDI),Bacteroidetes,Gastrointestinal tract,Decrease,23323867
+411,Clostridium difficile infection(CDI),Firmicutes,Gastrointestinal tract,Decrease,23323867
+412,Clostridium difficile infection(CDI),Lachnospiraceae,Gastrointestinal tract,Decrease,23323867
+413,Clostridium difficile infection(CDI),Parabacteroides,Gastrointestinal tract,Decrease,23323867
+414,Clostridium difficile infection(CDI),Porphyromonadaceae,Gastrointestinal tract,Decrease,23323867
+415,Clostridium difficile infection(CDI),Proteobacteria,Gastrointestinal tract,Increase,23323867
+416,Clostridium difficile infection(CDI),Rikenellaceae,Gastrointestinal tract,Decrease,23323867
+417,Clostridium difficile infection(CDI),Ruminococcaceae,Gastrointestinal tract,Decrease,23323867
+418,Clostridium difficile infection(CDI),Verrucomicrobiaceae,Gastrointestinal tract,Decrease,23323867
+419,Skin and mucosal infections,Acinetobacter,Skin,Increase,23796786
+420,Skin and mucosal infections,Corynebacterium,Skin,Decrease,23796786
+421,New-onset untreated rheumatoid arthrits,Prevotella copri,Gastrointestinal tract,Increase,24192039
+422,Crohn's disease(CD),Bacteroidales,Gastrointestinal tract,Decrease,24629344
+423,Crohn's disease(CD),Clostridiales,Gastrointestinal tract,Decrease,24629344
+424,Crohn's disease(CD),Erysipelotrichales,Gastrointestinal tract,Decrease,24629344
+425,Crohn's disease(CD),Fusobacteriaceae,Gastrointestinal tract,Increase,24629344
+426,Crohn's disease(CD),Veillonellaceae,Gastrointestinal tract,Increase,24629344
+427,Periodontal,Porphyromonas,Subgingival,Increase,24692635
+428,Periodontal,Prevotella,Subgingival,Increase,24692635
+429,Periodontal,Tannerella,Subgingival,Increase,24692635
+430,Periodontal,Treponema,Subgingival,Increase,24692635
+431,Liver cirrhosis,Alistipes,Gastrointestinal tract,Decrease,25079328
+432,Liver cirrhosis,Alistipes finegoldii,Gastrointestinal tract,Decrease,25079328
+433,Liver cirrhosis,Alistipes putredinis,Gastrointestinal tract,Decrease,25079328
+434,Liver cirrhosis,Bacteroides,Gastrointestinal tract,Decrease,25079328
+435,Liver cirrhosis,Bacteroides eggerthii,Gastrointestinal tract,Decrease,25079328
+436,Liver cirrhosis,Bacteroides finegoldii,Gastrointestinal tract,Decrease,25079328
+437,Liver cirrhosis,Bacteroides sp. D20,Gastrointestinal tract,Decrease,25079328
+438,Liver cirrhosis,Bacteroides uniformis,Gastrointestinal tract,Decrease,25079328
+439,Liver cirrhosis,Bacteroidetes,Gastrointestinal tract,Decrease,25079328
+440,Liver cirrhosis,Bilophila,Gastrointestinal tract,Decrease,25079328
+441,Liver cirrhosis,Bilophila wadsworthia,Gastrointestinal tract,Decrease,25079328
+442,Liver cirrhosis,Clostridium,Gastrointestinal tract,Increase,25079328
+443,Liver cirrhosis,Coprococcus,Gastrointestinal tract,Decrease,25079328
+444,Liver cirrhosis,Dorea,Gastrointestinal tract,Decrease,25079328
+445,Liver cirrhosis,Eubacterium,Gastrointestinal tract,Decrease,25079328
+446,Liver cirrhosis,Eubacterium eligens,Gastrointestinal tract,Decrease,25079328
+447,Liver cirrhosis,Eubacterium hallii,Gastrointestinal tract,Decrease,25079328
+448,Liver cirrhosis,Eubacterium rectale,Gastrointestinal tract,Decrease,25079328
+449,Liver cirrhosis,Faecalibacterium,Gastrointestinal tract,Decrease,25079328
+450,Liver cirrhosis,Faecalibacterium prausnitzii,Gastrointestinal tract,Decrease,25079328
+451,Liver cirrhosis,Fusobacteria,Gastrointestinal tract,Increase,25079328
+452,Liver cirrhosis,Fusobacterium,Gastrointestinal tract,Increase,25079328
+453,Liver cirrhosis,Haemophilus,Gastrointestinal tract,Increase,25079328
+454,Liver cirrhosis,Haemophilus parainfluenzae,Gastrointestinal tract,Increase,25079328
+455,Liver cirrhosis,Holdemania,Gastrointestinal tract,Decrease,25079328
+456,Liver cirrhosis,Lactobacillus,Gastrointestinal tract,Increase,25079328
+457,Liver cirrhosis,Lactobacillus salivarius,Gastrointestinal tract,Increase,25079328
+458,Liver cirrhosis,Megasphaera,Gastrointestinal tract,Increase,25079328
+459,Liver cirrhosis,Odoribacter,Gastrointestinal tract,Decrease,25079328
+460,Liver cirrhosis,Odoribacter splanchnicus,Gastrointestinal tract,Decrease,25079328
+461,Liver cirrhosis,Parabacteroides,Gastrointestinal tract,Decrease,25079328
+462,Liver cirrhosis,Parabacteroides distasonis,Gastrointestinal tract,Decrease,25079328
+463,Liver cirrhosis,Parabacteroides merdae,Gastrointestinal tract,Decrease,25079328
+464,Liver cirrhosis,Phascolarctobacterium,Gastrointestinal tract,Decrease,25079328
+465,Liver cirrhosis,Prevotella,Gastrointestinal tract,Increase,25079328
+466,Liver cirrhosis,Proteobacteria,Gastrointestinal tract,Increase,25079328
+467,Liver cirrhosis,Roseburia,Gastrointestinal tract,Decrease,25079328
+468,Liver cirrhosis,Roseburia hominis,Gastrointestinal tract,Decrease,25079328
+469,Liver cirrhosis,Roseburia intestinalis,Gastrointestinal tract,Decrease,25079328
+470,Liver cirrhosis,Ruminococcus,Gastrointestinal tract,Decrease,25079328
+471,Liver cirrhosis,Ruminococcus gnavus,Gastrointestinal tract,Increase,25079328
+472,Liver cirrhosis,Streptococcus,Gastrointestinal tract,Increase,25079328
+473,Liver cirrhosis,Streptococcus anginosus,Gastrointestinal tract,Increase,25079328
+474,Liver cirrhosis,Streptococcus parasanguinis,Gastrointestinal tract,Increase,25079328
+475,Liver cirrhosis,Streptococcus salivarius,Gastrointestinal tract,Increase,25079328
+476,Liver cirrhosis,Streptococcus vestibularis,Gastrointestinal tract,Increase,25079328
+477,Liver cirrhosis,Subdoligranulum,Gastrointestinal tract,Decrease,25079328
+478,Liver cirrhosis,Tannerella,Gastrointestinal tract,Decrease,25079328
+479,Liver cirrhosis,Veillonella,Gastrointestinal tract,Increase,25079328
+480,Liver cirrhosis,Veillonella atypica,Gastrointestinal tract,Increase,25079328
+481,Liver cirrhosis,Veillonella dispar,Gastrointestinal tract,Increase,25079328
+482,Liver cirrhosis,Veillonella parvula,Gastrointestinal tract,Increase,25079328

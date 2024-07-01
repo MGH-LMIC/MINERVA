@@ -1,0 +1,11 @@
+/* styles.css */
+div[role="table"] table {
+    font-size: 25px;
+}
+
+/* Styling the table header */
+div[role="table"] th {
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: left;
+}
