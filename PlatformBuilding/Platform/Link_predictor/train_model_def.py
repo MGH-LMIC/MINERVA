@@ -28,9 +28,9 @@ class Trainer:
         self.min_val = 10000
         self.no_better = 0
 
-        self.experiment = Experiment(api_key="SN8b7ORCZ8BjlES0bvWGBslAC",
+        self.experiment = Experiment(api_key="Your_key",
                                      project_name="microbiome",
-                                     workspace="salangarica")
+                                     workspace="Your_workspace")
 
         self.experiment_name = experiment_name
         self.folder = folder
